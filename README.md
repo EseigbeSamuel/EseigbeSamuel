@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Eseigbe</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A Front-end developer looking to constantly up my skills by building projects and endlessly learning about the fascinating software development world.</h3>
 
 <p align="left"> <a href="https://twitter.com/muel_se" target="blank"><img src="https://img.shields.io/twitter/follow/muel_se?logo=twitter&style=for-the-badge" alt="muel_se" /></a> </p>
 
