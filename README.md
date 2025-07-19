@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/muel_se" target="blank"><img src="https://img.shields.io/twitter/follow/muel_se?logo=twitter&style=for-the-badge" alt="muel_se" /></a> </p>
 
-- 🌱 I’m currently learning **node.js, React native**
+- 🌱 I’m currently learning **React native**
 
 - 📫 How to reach me **eseigbesamuel810@gmail.com**
 
