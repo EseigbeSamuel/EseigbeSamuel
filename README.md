@@ -1,7 +1,7 @@
 # <div align="center">Hi, I'm Samuel Eseigbe 👋</div>  
   
 
-### <div align="center">A Front-end developer looking to constantly up my skills by building projects and endlessly learning about the fascinating software development world.🚀</div>  
+### <div align="center">A Full-Stack developer looking to constantly up my skills by building projects and endlessly learning about the fascinating software development world.🚀</div>  
   
 
 - 🌱 I’m currently learning React Native and Godot Engine  
