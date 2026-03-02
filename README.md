@@ -103,9 +103,10 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EseigbeSamuel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=EseigbeSamuel&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=EseigbeSamuel&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EseigbeSamuel&layout=compact&theme=radical)
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=EseigbeSamuel&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=EseigbeSamuel&theme=radical"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EseigbeSamuel&layout=compact&theme=radical"/>
 <br/>  
 
 
